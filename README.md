@@ -1,4 +1,4 @@
-# 🏨 Bristol Hotel website testing
+# 🏨 Bristol Hotel Krasnodar website testing
 
 I tested the hotel website [bristolkrasnodar.ru](https://bristolkrasnodar.ru/) and prepared different types of testing documentation:
 
