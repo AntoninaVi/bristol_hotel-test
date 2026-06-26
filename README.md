@@ -7,3 +7,24 @@ I tested the hotel website [bristolkrasnodar.ru](https://bristolkrasnodar.ru/) a
 - [Test cases](https://drive.google.com/file/d/17AIZvnu2T3a2XNy6DgfiSHp_d4x6Gz3m/view?usp=drive_link) created via [Test IT](https://testit.software/), covering key user flows: navigation, room browsing, booking (including negative scenarios), contacts, discounts, gallery and services.
 - [Bug report](https://drive.google.com/file/d/1rxB9zuBtqxNcj05Xe4ZRHPGf29twm12v/view?usp=drive_link) created via [Jira](https://www.atlassian.com/software), with steps to reproduce, screenshots, severity and priority.
 
+## 🧪 Types of Testing
+
+- Manual Testing
+- Functional Testing
+- Black-box Testing
+- GUI Testing
+- Usability Testing
+- Exploratory Testing
+- Compatibility Testing
+- Responsive Testing
+
+## 💻 Test Environment
+
+**Devices**
+- MacBook
+- iPhone
+- iPad
+
+**Browsers**
+- Google Chrome
+- Safari
