@@ -1,6 +1,6 @@
 # 🏨 Bristol Hotel Krasnodar website testing
 
-I tested the hotel website [bristolkrasnodar.ru](https://bristolkrasnodar.ru/) and prepared different types of testing documentation:
+Manual QA testing of [bristolkrasnodar.ru](https://bristolkrasnodar.ru/):
 
 - [Test plan](https://docs.google.com/document/d/1aDnAJQ_P-VIjMnRzMgd0eRmZh3xKPwz0-ldw8uBG-8g/edit?tab=t.0) describing what to test and how to test.
 - [Checklist](https://docs.google.com/document/d/1X2s3uYtn3BSPhel1E_5JpGmAnq48-ks0oUVeBBAvf9c/edit?tab=t.0) for quick verification of the site's main sections.
